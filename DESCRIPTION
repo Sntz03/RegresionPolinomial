@@ -1,0 +1,11 @@
+Package: ReP
+Type: Package
+Title: Regresión Polinomial
+Version: 0.1.0
+Author: Rubí Olvera Santeliz
+Maintainer: The package maintainer <rubisanteliz@outlook.comt>
+Description: El paquete realiza una regresión polinomial hasta el grado deseado, devolviendo los valores de los coeficientes, el error estandar de cada uno, valores T y P, la varianza y el error estandar residual; así como tener una función para predecir los valores de Y 
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.2.3
